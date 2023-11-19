@@ -1,3 +1,6 @@
+# Reference
+> [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
+
 **NOTICE:**
 
 This repository is currently unmaintained. For the time being (as of August, 2023), it is recommended to use one of the following plugin managers instead:
